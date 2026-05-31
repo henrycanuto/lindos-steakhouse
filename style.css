@@ -46,9 +46,6 @@ nav a {
 #banner {
     width: 100%;
     height: auto;
-    display: flex;
-    justify-content: center;
-    object-fit: cover;
     margin-top: 60px;
 }
 
